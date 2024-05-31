@@ -12,8 +12,11 @@ L'application permet alors :
 - Explorer une tab pour les favoris/likes/dislikes en liste
 
 ## Utilisation de l'application
+![Screenshot_2024-06-01-00-12-34-876_host exp exponent-imageonline co-merged](https://github.com/teddyfresnes/LP_iVibes/assets/80900011/52c39b23-507d-45c2-9b39-192495b35fb9)  
 
 ## Affichage des titres sauvegardés
+![Screenshot_2024-06-01-00-12-51-195_host exp exponent-imageonline co-merged](https://github.com/teddyfresnes/LP_iVibes/assets/80900011/fae84844-01c8-4c66-abba-fecd98aec2d9)  
+
 
 # Features et progression technique
 - Recherche en temps réel (recherche s'actualise à chaque changement de caractère)
